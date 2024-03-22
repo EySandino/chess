@@ -1,6 +1,6 @@
-import GUIStart
+from GUIStart import startGame
 
 try:
-   GUIStart.startGame()
+  startGame()
 except:
-   pass
+  pass
