@@ -36,3 +36,5 @@ def generateElements():
     #Generate the confirm button
     confirmButton.place(x=330, y=470)
 
+if (__name__ == "__main__"):
+    startGame()
